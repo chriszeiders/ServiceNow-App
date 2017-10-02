@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="TempTable-CZ" max_length="40" name="x_130971_drt_first_temptable_cz" type="collection"/>
+</database>

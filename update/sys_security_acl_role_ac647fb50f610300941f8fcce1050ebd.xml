@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-02 20:05:06</sys_created_on>
+        <sys_id>ac647fb50f610300941f8fcce1050ebd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_130971_drt_first_temptable_cz.x_130971_drt_first.temptable_cz_user</sys_name>
+        <sys_package display_value="DRT First App" source="x_130971_drt_first">c54d0bf10f210300941f8fcce1050e91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DRT First App">c54d0bf10f210300941f8fcce1050e91</sys_scope>
+        <sys_security_acl display_value="x_130971_drt_first_temptable_cz">a4647fb50f610300941f8fcce1050ebb</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ac647fb50f610300941f8fcce1050ebd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-02 20:05:06</sys_updated_on>
+        <sys_user_role display_value="x_130971_drt_first.temptable_cz_user" name="x_130971_drt_first.temptable_cz_user">5c6477310f210300941f8fcce1050e45</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
